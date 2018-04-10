@@ -1,0 +1,23 @@
+{
+  "name": "mocha-profile-reporter",
+  "version": "0.1.0",
+  "description": "Reports tests with console.profile for node inspect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hugosenari/mocha-profile-reporter.git"
+  },
+  "keywords": [
+    "mocha",
+    "profiler"
+  ],
+  "author": "hugosenari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugosenari/mocha-profile-reporter/issues"
+  },
+  "homepage": "https://github.com/hugosenari/mocha-profile-reporter#readme"
+}
